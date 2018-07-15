@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
-import { NgFoundryModelsModule } from 'ng-foundry-models';
+import { NgFoundryModelsModule } from '../../node_modules/ng-foundry-models';
 
 import { AppComponent } from './app.component';
 

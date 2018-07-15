@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-import { Tools } from 'ng-foundry-models';
+import { Tools } from '../../node_modules/ng-foundry-models';
 
 @Component({
   selector: 'app-root',
