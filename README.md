@@ -1,5 +1,7 @@
 # Boyds
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/99734279526145f6bc8de40e09acde35)](https://app.codacy.com/gh/SteveStrong/boyds?utm_source=github.com&utm_medium=referral&utm_content=SteveStrong/boyds&utm_campaign=Badge_Grade_Settings)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## Development server
